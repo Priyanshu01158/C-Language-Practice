@@ -1,4 +1,4 @@
-# MyFirstProgram
+# C-Language-Practice
 # Hi, I'm Priyanshu Singh 👋
 
 🎓 First-year B.Tech CSE (AI & ML) Student
